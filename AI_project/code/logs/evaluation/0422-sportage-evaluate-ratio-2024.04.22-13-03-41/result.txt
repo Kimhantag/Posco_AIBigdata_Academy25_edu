@@ -1,0 +1,502 @@
+Episode 0 ends.
+Mean ratio: 0.60274, length: 16.00000
+Mean reward: 9.76511, length: 16.00000
+Episode ratio: 0.60274, Episode reward: 9.765112906910337, length: 16
+
+Episode 1 ends.
+Mean ratio: 0.54245, length: 16.50000
+Mean reward: 9.19242, length: 16.50000
+Episode ratio: 0.48215, Episode reward: 8.61972664231007, length: 17
+
+Episode 2 ends.
+Mean ratio: 0.57593, length: 17.00000
+Mean reward: 9.86245, length: 17.00000
+Episode ratio: 0.64291, Episode reward: 11.202509002292231, length: 18
+
+Episode 3 ends.
+Mean ratio: 0.57048, length: 17.00000
+Mean reward: 9.70643, length: 17.00000
+Episode ratio: 0.55411, Episode reward: 9.238384155433685, length: 17
+
+Episode 4 ends.
+Mean ratio: 0.56941, length: 16.40000
+Mean reward: 9.72516, length: 16.40000
+Episode ratio: 0.56515, Episode reward: 9.800086821620521, length: 14
+
+Episode 5 ends.
+Mean ratio: 0.53560, length: 15.00000
+Mean reward: 9.00268, length: 15.00000
+Episode ratio: 0.36651, Episode reward: 5.390230688530233, length: 8
+
+Episode 6 ends.
+Mean ratio: 0.54820, length: 15.14286
+Mean reward: 9.03523, length: 15.14286
+Episode ratio: 0.62380, Episode reward: 9.230554045828999, length: 16
+
+Episode 7 ends.
+Mean ratio: 0.52873, length: 14.37500
+Mean reward: 8.67396, length: 14.37500
+Episode ratio: 0.39245, Episode reward: 6.14505803963293, length: 9
+
+Episode 8 ends.
+Mean ratio: 0.53469, length: 14.77778
+Mean reward: 8.88702, length: 14.77778
+Episode ratio: 0.58243, Episode reward: 10.591488273628375, length: 18
+
+Episode 9 ends.
+Mean ratio: 0.53211, length: 14.90000
+Mean reward: 8.90999, length: 14.90000
+Episode ratio: 0.50881, Episode reward: 9.116767092776731, length: 16
+
+Episode 10 ends.
+Mean ratio: 0.51474, length: 14.54545
+Mean reward: 8.60083, length: 14.54545
+Episode ratio: 0.34112, Episode reward: 5.509170133700508, length: 11
+
+Episode 11 ends.
+Mean ratio: 0.51572, length: 14.58333
+Mean reward: 8.60609, length: 14.58333
+Episode ratio: 0.52648, Episode reward: 8.664027143784764, length: 15
+
+Episode 12 ends.
+Mean ratio: 0.51934, length: 14.84615
+Mean reward: 8.68631, length: 14.84615
+Episode ratio: 0.56283, Episode reward: 9.648929799801287, length: 18
+
+Episode 13 ends.
+Mean ratio: 0.51390, length: 14.71429
+Mean reward: 8.60319, length: 14.71429
+Episode ratio: 0.44311, Episode reward: 7.52268047847414, length: 13
+
+Episode 14 ends.
+Mean ratio: 0.51269, length: 14.93333
+Mean reward: 8.72047, length: 14.93333
+Episode ratio: 0.49568, Episode reward: 10.362338753588947, length: 18
+
+Episode 15 ends.
+Mean ratio: 0.51385, length: 15.00000
+Mean reward: 8.69841, length: 15.00000
+Episode ratio: 0.53126, Episode reward: 8.367443264514211, length: 16
+
+Episode 16 ends.
+Mean ratio: 0.51255, length: 14.88235
+Mean reward: 8.65832, length: 14.88235
+Episode ratio: 0.49180, Episode reward: 8.016856862223543, length: 13
+
+Episode 17 ends.
+Mean ratio: 0.51608, length: 14.72222
+Mean reward: 8.66072, length: 14.72222
+Episode ratio: 0.57608, Episode reward: 8.701562929989127, length: 12
+
+Episode 18 ends.
+Mean ratio: 0.52264, length: 15.00000
+Mean reward: 8.80766, length: 15.00000
+Episode ratio: 0.64078, Episode reward: 11.452613930200357, length: 20
+
+Episode 19 ends.
+Mean ratio: 0.52553, length: 15.10000
+Mean reward: 8.86781, length: 15.10000
+Episode ratio: 0.58035, Episode reward: 10.010725187172888, length: 17
+
+Episode 20 ends.
+Mean ratio: 0.52660, length: 15.04762
+Mean reward: 8.90679, length: 15.04762
+Episode ratio: 0.54815, Episode reward: 9.686233057430979, length: 14
+
+Episode 21 ends.
+Mean ratio: 0.52976, length: 15.22727
+Mean reward: 8.99038, length: 15.22727
+Episode ratio: 0.59596, Episode reward: 10.745884738270888, length: 19
+
+Episode 22 ends.
+Mean ratio: 0.53092, length: 15.26087
+Mean reward: 9.00538, length: 15.26087
+Episode ratio: 0.55661, Episode reward: 9.335456187071184, length: 16
+
+Episode 23 ends.
+Mean ratio: 0.52866, length: 15.25000
+Mean reward: 8.99325, length: 15.25000
+Episode ratio: 0.47663, Episode reward: 8.714140955853015, length: 15
+
+Episode 24 ends.
+Mean ratio: 0.53281, length: 15.28000
+Mean reward: 9.11031, length: 15.28000
+Episode ratio: 0.63247, Episode reward: 11.919814644469305, length: 16
+
+Episode 25 ends.
+Mean ratio: 0.53764, length: 15.46154
+Mean reward: 9.24356, length: 15.46154
+Episode ratio: 0.65832, Episode reward: 12.574881430571963, length: 20
+
+Episode 26 ends.
+Mean ratio: 0.53735, length: 15.44444
+Mean reward: 9.19950, length: 15.44444
+Episode ratio: 0.52989, Episode reward: 8.053889871149948, length: 15
+
+Episode 27 ends.
+Mean ratio: 0.54079, length: 15.64286
+Mean reward: 9.28845, length: 15.64286
+Episode ratio: 0.63362, Episode reward: 11.6900149221971, length: 21
+
+Episode 28 ends.
+Mean ratio: 0.54091, length: 15.68966
+Mean reward: 9.31735, length: 15.68966
+Episode ratio: 0.54406, Episode reward: 10.126685810065482, length: 17
+
+Episode 29 ends.
+Mean ratio: 0.53951, length: 15.73333
+Mean reward: 9.30261, length: 15.73333
+Episode ratio: 0.49894, Episode reward: 8.875099403863153, length: 17
+
+Episode 30 ends.
+Mean ratio: 0.53809, length: 15.64516
+Mean reward: 9.26884, length: 15.64516
+Episode ratio: 0.49569, Episode reward: 8.255670046861676, length: 13
+
+Episode 31 ends.
+Mean ratio: 0.54074, length: 15.81250
+Mean reward: 9.33886, length: 15.81250
+Episode ratio: 0.62279, Episode reward: 11.509324551919452, length: 21
+
+Episode 32 ends.
+Mean ratio: 0.54193, length: 15.78788
+Mean reward: 9.33681, length: 15.78788
+Episode ratio: 0.57987, Episode reward: 9.271337316445397, length: 15
+
+Episode 33 ends.
+Mean ratio: 0.54251, length: 15.91176
+Mean reward: 9.34315, length: 15.91176
+Episode ratio: 0.56180, Episode reward: 9.552418666437182, length: 20
+
+Episode 34 ends.
+Mean ratio: 0.54442, length: 15.97143
+Mean reward: 9.38280, length: 15.97143
+Episode ratio: 0.60930, Episode reward: 10.730956666640589, length: 18
+
+Episode 35 ends.
+Mean ratio: 0.54625, length: 15.94444
+Mean reward: 9.36873, length: 15.94444
+Episode ratio: 0.61020, Episode reward: 8.876300422459183, length: 15
+
+Episode 36 ends.
+Mean ratio: 0.54625, length: 16.00000
+Mean reward: 9.38873, length: 16.00000
+Episode ratio: 0.54653, Episode reward: 10.108660555612056, length: 18
+
+Episode 37 ends.
+Mean ratio: 0.54616, length: 15.97368
+Mean reward: 9.37161, length: 15.97368
+Episode ratio: 0.54267, Episode reward: 8.738138536883033, length: 15
+
+Episode 38 ends.
+Mean ratio: 0.54706, length: 16.07692
+Mean reward: 9.37968, length: 16.07692
+Episode ratio: 0.58123, Episode reward: 9.686249890082381, length: 20
+
+Episode 39 ends.
+Mean ratio: 0.54429, length: 16.00000
+Mean reward: 9.34963, length: 16.00000
+Episode ratio: 0.43634, Episode reward: 8.17777748292561, length: 13
+
+Episode 40 ends.
+Mean ratio: 0.54629, length: 15.97561
+Mean reward: 9.34500, length: 15.97561
+Episode ratio: 0.62647, Episode reward: 9.159894147375667, length: 15
+
+Episode 41 ends.
+Mean ratio: 0.54258, length: 15.88095
+Mean reward: 9.30423, length: 15.88095
+Episode ratio: 0.39027, Episode reward: 7.632440508359215, length: 12
+
+Episode 42 ends.
+Mean ratio: 0.54068, length: 15.79070
+Mean reward: 9.25308, length: 15.79070
+Episode ratio: 0.46087, Episode reward: 7.105001094482214, length: 12
+
+Episode 43 ends.
+Mean ratio: 0.53970, length: 15.81818
+Mean reward: 9.25447, length: 15.81818
+Episode ratio: 0.49743, Episode reward: 9.314084753135194, length: 17
+
+Episode 44 ends.
+Mean ratio: 0.54078, length: 15.86667
+Mean reward: 9.25630, length: 15.86667
+Episode ratio: 0.58824, Episode reward: 9.336868587812836, length: 18
+
+Episode 45 ends.
+Mean ratio: 0.54075, length: 15.91304
+Mean reward: 9.27021, length: 15.91304
+Episode ratio: 0.53950, Episode reward: 9.896291511699772, length: 18
+
+Episode 46 ends.
+Mean ratio: 0.53863, length: 15.82979
+Mean reward: 9.25911, length: 15.82979
+Episode ratio: 0.44141, Episode reward: 8.748188231382457, length: 12
+
+Episode 47 ends.
+Mean ratio: 0.53972, length: 15.83333
+Mean reward: 9.28681, length: 15.83333
+Episode ratio: 0.59061, Episode reward: 10.588720181813915, length: 16
+
+Episode 48 ends.
+Mean ratio: 0.54008, length: 15.85714
+Mean reward: 9.31503, length: 15.85714
+Episode ratio: 0.55743, Episode reward: 10.669633257707922, length: 17
+
+Episode 49 ends.
+Mean ratio: 0.54028, length: 15.84000
+Mean reward: 9.32080, length: 15.84000
+Episode ratio: 0.55011, Episode reward: 9.603922646159143, length: 15
+
+Episode 50 ends.
+Mean ratio: 0.53855, length: 15.84314
+Mean reward: 9.29082, length: 15.84314
+Episode ratio: 0.45224, Episode reward: 7.791809894932837, length: 16
+
+Episode 51 ends.
+Mean ratio: 0.53977, length: 15.92308
+Mean reward: 9.30960, length: 15.92308
+Episode ratio: 0.60171, Episode reward: 10.267001773546232, length: 20
+
+Episode 52 ends.
+Mean ratio: 0.53996, length: 15.90566
+Mean reward: 9.30421, length: 15.90566
+Episode ratio: 0.54980, Episode reward: 9.023808965522637, length: 15
+
+Episode 53 ends.
+Mean ratio: 0.54037, length: 15.90741
+Mean reward: 9.31214, length: 15.90741
+Episode ratio: 0.56216, Episode reward: 9.732870452891891, length: 16
+
+Episode 54 ends.
+Mean ratio: 0.53838, length: 15.87273
+Mean reward: 9.27779, length: 15.87273
+Episode ratio: 0.43079, Episode reward: 7.422794510377631, length: 14
+
+Episode 55 ends.
+Mean ratio: 0.53813, length: 15.83929
+Mean reward: 9.24663, length: 15.83929
+Episode ratio: 0.52489, Episode reward: 7.532745807874951, length: 14
+
+Episode 56 ends.
+Mean ratio: 0.53703, length: 15.77193
+Mean reward: 9.22519, length: 15.77193
+Episode ratio: 0.47503, Episode reward: 8.024456213670467, length: 12
+
+Episode 57 ends.
+Mean ratio: 0.53739, length: 15.77586
+Mean reward: 9.23579, length: 15.77586
+Episode ratio: 0.55803, Episode reward: 9.83982591943547, length: 16
+
+Episode 58 ends.
+Mean ratio: 0.53781, length: 15.79661
+Mean reward: 9.24887, length: 15.79661
+Episode ratio: 0.56221, Episode reward: 10.00761808516464, length: 17
+
+Episode 59 ends.
+Mean ratio: 0.53583, length: 15.70000
+Mean reward: 9.19265, length: 15.70000
+Episode ratio: 0.41894, Episode reward: 5.876033826463156, length: 10
+
+Episode 60 ends.
+Mean ratio: 0.53437, length: 15.63934
+Mean reward: 9.17799, length: 15.63934
+Episode ratio: 0.44679, Episode reward: 8.298343953748542, length: 12
+
+Episode 61 ends.
+Mean ratio: 0.53537, length: 15.62903
+Mean reward: 9.20341, length: 15.62903
+Episode ratio: 0.59609, Episode reward: 10.753683409089131, length: 15
+
+Episode 62 ends.
+Mean ratio: 0.53475, length: 15.61905
+Mean reward: 9.18332, length: 15.61905
+Episode ratio: 0.49649, Episode reward: 7.937828064589315, length: 15
+
+Episode 63 ends.
+Mean ratio: 0.53285, length: 15.51562
+Mean reward: 9.15194, length: 15.51562
+Episode ratio: 0.41322, Episode reward: 7.1749140772787365, length: 9
+
+Episode 64 ends.
+Mean ratio: 0.53169, length: 15.47692
+Mean reward: 9.14635, length: 15.47692
+Episode ratio: 0.45729, Episode reward: 8.788732883753315, length: 13
+
+Episode 65 ends.
+Mean ratio: 0.53350, length: 15.46970
+Mean reward: 9.16455, length: 15.46970
+Episode ratio: 0.65110, Episode reward: 10.347772203750498, length: 15
+
+Episode 66 ends.
+Mean ratio: 0.53037, length: 15.38806
+Mean reward: 9.11228, length: 15.38806
+Episode ratio: 0.32381, Episode reward: 5.662002688874459, length: 10
+
+Episode 67 ends.
+Mean ratio: 0.53063, length: 15.41176
+Mean reward: 9.11298, length: 15.41176
+Episode ratio: 0.54796, Episode reward: 9.160177227885434, length: 17
+
+Episode 68 ends.
+Mean ratio: 0.52734, length: 15.30435
+Mean reward: 9.05957, length: 15.30435
+Episode ratio: 0.30401, Episode reward: 5.427594505683642, length: 8
+
+Episode 69 ends.
+Mean ratio: 0.52654, length: 15.25714
+Mean reward: 9.04361, length: 15.25714
+Episode ratio: 0.47101, Episode reward: 7.942638238032279, length: 12
+
+Episode 70 ends.
+Mean ratio: 0.52815, length: 15.32394
+Mean reward: 9.08665, length: 15.32394
+Episode ratio: 0.64076, Episode reward: 12.099210523927617, length: 20
+
+Episode 71 ends.
+Mean ratio: 0.52803, length: 15.34722
+Mean reward: 9.09337, length: 15.34722
+Episode ratio: 0.52005, Episode reward: 9.570335114963662, length: 17
+
+Episode 72 ends.
+Mean ratio: 0.52871, length: 15.35616
+Mean reward: 9.10194, length: 15.35616
+Episode ratio: 0.57738, Episode reward: 9.719027871353354, length: 16
+
+Episode 73 ends.
+Mean ratio: 0.52891, length: 15.31081
+Mean reward: 9.10227, length: 15.31081
+Episode ratio: 0.54355, Episode reward: 9.12666935997434, length: 12
+
+Episode 74 ends.
+Mean ratio: 0.52832, length: 15.30667
+Mean reward: 9.11242, length: 15.30667
+Episode ratio: 0.48493, Episode reward: 9.863046361765878, length: 15
+
+Episode 75 ends.
+Mean ratio: 0.52907, length: 15.32895
+Mean reward: 9.14078, length: 15.32895
+Episode ratio: 0.58520, Episode reward: 11.267729759902366, length: 17
+
+Episode 76 ends.
+Mean ratio: 0.53077, length: 15.37662
+Mean reward: 9.15993, length: 15.37662
+Episode ratio: 0.65982, Episode reward: 10.615855261572644, length: 19
+
+Episode 77 ends.
+Mean ratio: 0.52987, length: 15.38462
+Mean reward: 9.14443, length: 15.38462
+Episode ratio: 0.46070, Episode reward: 7.95106431784577, length: 16
+
+Episode 78 ends.
+Mean ratio: 0.53101, length: 15.44304
+Mean reward: 9.16980, length: 15.44304
+Episode ratio: 0.61964, Episode reward: 11.14859657964529, length: 20
+
+Episode 79 ends.
+Mean ratio: 0.53031, length: 15.45000
+Mean reward: 9.16277, length: 15.45000
+Episode ratio: 0.47518, Episode reward: 8.607258290761443, length: 16
+
+Episode 80 ends.
+Mean ratio: 0.52992, length: 15.43210
+Mean reward: 9.16767, length: 15.43210
+Episode ratio: 0.49858, Episode reward: 9.559347617408449, length: 14
+
+Episode 81 ends.
+Mean ratio: 0.52914, length: 15.41463
+Mean reward: 9.14874, length: 15.41463
+Episode ratio: 0.46650, Episode reward: 7.615782045484772, length: 14
+
+Episode 82 ends.
+Mean ratio: 0.52955, length: 15.39759
+Mean reward: 9.15329, length: 15.39759
+Episode ratio: 0.56304, Episode reward: 9.526079509165017, length: 14
+
+Episode 83 ends.
+Mean ratio: 0.52984, length: 15.42857
+Mean reward: 9.16189, length: 15.42857
+Episode ratio: 0.55332, Episode reward: 9.875966957433324, length: 18
+
+Episode 84 ends.
+Mean ratio: 0.52954, length: 15.41176
+Mean reward: 9.15663, length: 15.41176
+Episode ratio: 0.50463, Episode reward: 8.714790573683922, length: 14
+
+Episode 85 ends.
+Mean ratio: 0.53033, length: 15.43023
+Mean reward: 9.18219, length: 15.43023
+Episode ratio: 0.59714, Episode reward: 11.354444888635065, length: 17
+
+Episode 86 ends.
+Mean ratio: 0.53095, length: 15.49425
+Mean reward: 9.20084, length: 15.49425
+Episode ratio: 0.58505, Episode reward: 10.804927682811387, length: 21
+
+Episode 87 ends.
+Mean ratio: 0.53076, length: 15.51136
+Mean reward: 9.21304, length: 15.51136
+Episode ratio: 0.51410, Episode reward: 10.274499663597318, length: 17
+
+Episode 88 ends.
+Mean ratio: 0.53124, length: 15.51685
+Mean reward: 9.21037, length: 15.51685
+Episode ratio: 0.57344, Episode reward: 8.975498347715199, length: 16
+
+Episode 89 ends.
+Mean ratio: 0.53220, length: 15.57778
+Mean reward: 9.22077, length: 15.57778
+Episode ratio: 0.61775, Episode reward: 10.14599544291716, length: 21
+
+Episode 90 ends.
+Mean ratio: 0.53257, length: 15.59341
+Mean reward: 9.23398, length: 15.59341
+Episode ratio: 0.56574, Episode reward: 10.42301689680261, length: 17
+
+Episode 91 ends.
+Mean ratio: 0.53213, length: 15.59783
+Mean reward: 9.22462, length: 15.59783
+Episode ratio: 0.49235, Episode reward: 8.373111418132886, length: 16
+
+Episode 92 ends.
+Mean ratio: 0.53230, length: 15.60215
+Mean reward: 9.22239, length: 15.60215
+Episode ratio: 0.54767, Episode reward: 9.017198246794395, length: 16
+
+Episode 93 ends.
+Mean ratio: 0.53157, length: 15.56383
+Mean reward: 9.20558, length: 15.56383
+Episode ratio: 0.46327, Episode reward: 7.641987388028758, length: 12
+
+Episode 94 ends.
+Mean ratio: 0.53049, length: 15.56842
+Mean reward: 9.19567, length: 15.56842
+Episode ratio: 0.42936, Episode reward: 8.26386219146789, length: 16
+
+Episode 95 ends.
+Mean ratio: 0.53086, length: 15.56250
+Mean reward: 9.18461, length: 15.56250
+Episode ratio: 0.56584, Episode reward: 8.133949574802656, length: 15
+
+Episode 96 ends.
+Mean ratio: 0.53167, length: 15.54639
+Mean reward: 9.18508, length: 15.54639
+Episode ratio: 0.60946, Episode reward: 9.23081521009521, length: 14
+
+Episode 97 ends.
+Mean ratio: 0.53233, length: 15.59184
+Mean reward: 9.19606, length: 15.59184
+Episode ratio: 0.59663, Episode reward: 10.260850205362104, length: 20
+
+Episode 98 ends.
+Mean ratio: 0.53148, length: 15.58586
+Mean reward: 9.19103, length: 15.58586
+Episode ratio: 0.44760, Episode reward: 8.698170678203454, length: 15
+
+Episode 99 ends.
+Mean ratio: 0.53096, length: 15.56000
+Mean reward: 9.17758, length: 15.56000
+Episode ratio: 0.47983, Episode reward: 7.846007033945377, length: 13
+
+Evaluation using 100 episodes
+Mean ratio 0.53096, Mean reward 9.17758, mean length 15.56000
